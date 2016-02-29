@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./povidiinasonisa01ovidgoog_0010.png"; bbox 0 0 2896 4754; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 150 649 1196 1180">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 150 649 1196 1180">
+     <span class='ocr_line' id='line_1_1' title="bbox 150 649 1196 841; baseline 0.006 -47"><span class='ocrx_word' id='word_1_1' title='bbox 150 650 225 794; x_wconf 91' lang='lat' dir='ltr'>P.</span> <span class='ocrx_word' id='word_1_2' title='bbox 270 649 1196 841; x_wconf 79' lang='lat' dir='ltr'><strong>QVIDHNASONIS</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 429 1031 915 1180; baseline 0.004 -2"><span class='ocrx_word' id='word_1_3' title='bbox 429 1031 915 1180; x_wconf 78' lang='lat' dir='ltr'>AMORES</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 401 1792 1099 1837">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 401 1792 1099 1837">
+     <span class='ocr_line' id='line_1_3' title="bbox 401 1792 1099 1837; baseline -0.003 0"><span class='ocrx_word' id='word_1_4' title='bbox 401 1793 676 1837; x_wconf 76' lang='lat' dir='ltr'>ADNOTATIONIBUS</span> <span class='ocrx_word' id='word_1_5' title='bbox 696 1793 885 1837; x_wconf 66' lang='lat' dir='ltr'>manuele</span> <span class='ocrx_word' id='word_1_6' title='bbox 904 1793 944 1835; x_wconf 83' lang='lat' dir='ltr'>BT</span> <span class='ocrx_word' id='word_1_7' title='bbox 962 1792 1099 1836; x_wconf 67' lang='lat' dir='ltr'><strong>omnem</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 412 2104 952 2248">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 412 2104 952 2248">
+     <span class='ocr_line' id='line_1_4' title="bbox 412 2104 952 2248; baseline -0.002 -37"><span class='ocrx_word' id='word_1_8' title='bbox 412 2129 617 2212; x_wconf 77' lang='lat' dir='ltr'>GEYZA</span> <span class='ocrx_word' id='word_1_9' title='bbox 645 2104 952 2248; x_wconf 53' lang='grc' dir='ltr'>ῌΕΜΕΤΗΥ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 515 3762 851 3829">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 515 3762 851 3829">
+     <span class='ocr_line' id='line_1_5' title="bbox 515 3762 851 3829; baseline -0.012 -2"><span class='ocrx_word' id='word_1_10' title='bbox 515 3762 851 3829; x_wconf 80' lang='lat' dir='ltr'>BUDAPESTINI</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1452 4754">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1452 4754">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1452 4754; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1452 4754; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
